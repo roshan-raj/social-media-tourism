@@ -10,7 +10,7 @@ UserID,Taken_product,Yearly_avg_view_on_travel_page,preferred_device,total_likes
 1000009,No,285,iOS,7560,23,3,Financial,44,9526,0,No,21,Yes,2,0,10
 1000010,No,270,iOS and Android,45465,27,3,,94,5237,6,No,13,No,2,2,17
 1000011,No,262,iOS and Android,28315,16,3,Medical,84,2426,0,No,13,No,3,1,6
-1000012,No,217,iOS and Android,5355,15,2,Financial,49,4193,0,Yes,12,No,4,0,10
+1000012,No,217,iOS and Android,5355,15,2,Financial,49,4193,0,Yeso,4,0,10
 1000013,No,232,iOS and Android,23450,26,1,Financial,31,2911,1,No,17,No,4,1,5
 1000014,No,255,iOS and Android,47110,19,2,Medical,93,2661,0,No,11,No,3,1,3
 1000015,Yes,210,iOS and Android,3605,24,3,Financial,50,2028,5,Yes,14,No,2,0,6
